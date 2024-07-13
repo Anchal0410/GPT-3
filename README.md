@@ -1,1 +1,1 @@
-In this project, I built a clean and appealing GPT-3 website. I have used pure CSS and create-react-app for making this project.
+![gpt3](https://github.com/user-attachments/assets/f34da6b5-c132-4092-adb1-7fccfec0a604)
